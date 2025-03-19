@@ -1,0 +1,11 @@
+export declare type gap = "spaceBetween" | number;
+export declare type align = "start" | "center" | "end" | "stretch";
+export declare const row: import("@emotion/react").SerializedStyles;
+export declare const rowWrap: (wrap: boolean) => import("@emotion/react").SerializedStyles;
+export declare const rowAlign: (responsiveProp: any) => import("@emotion/react").SerializedStyles | (import("@emotion/react").SerializedStyles | import("@emotion/react").SerializedStyles[] | null)[] | null;
+export declare const rowGap: (responsiveProp: any) => import("@emotion/react").SerializedStyles | (import("@emotion/react").SerializedStyles | import("@emotion/react").SerializedStyles[] | null)[] | null;
+export declare const rowVGap: (responsiveProp: any) => import("@emotion/react").SerializedStyles | (import("@emotion/react").SerializedStyles | import("@emotion/react").SerializedStyles[] | null)[] | null;
+export declare const wrapBefore: (screenSize: number) => import("@emotion/react").SerializedStyles;
+export declare const box: import("@emotion/react").SerializedStyles;
+export declare const boxGap: (responsiveProp: any) => import("@emotion/react").SerializedStyles | (import("@emotion/react").SerializedStyles | import("@emotion/react").SerializedStyles[] | null)[] | null;
+export declare const boxVGap: (responsiveProp: any) => import("@emotion/react").SerializedStyles | (import("@emotion/react").SerializedStyles | import("@emotion/react").SerializedStyles[] | null)[] | null;
