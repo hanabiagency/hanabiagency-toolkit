@@ -60,5 +60,9 @@
   },
   "dependencies": {
     "csstype": "^3.0.8"
-  }
+  },
+  "description": "Fork of deprecated @tinloof/toolkit package",
+  "repository": "https://github.com/hanabiagency/hanabi-toolkit.git",
+  "author": "Neil Bradley <neil@hanabi.agency>",
+  "license": "MIT"
 }
