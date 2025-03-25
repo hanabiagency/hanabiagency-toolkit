@@ -1,5 +1,5 @@
 {
-  "name": "@hanabi/toolkit",
+  "name": "@hanabiagency/toolkit",
   "version": "1.0.0",
   "private": false,
   "main": "lib/index.js",

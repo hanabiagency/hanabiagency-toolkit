@@ -7,7 +7,7 @@ React utility functions.
 ## Install
 
 ```
-yarn add @hanabi/toolkit
+yarn add @hanabiagency/toolkit
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ yarn add @hanabi/toolkit
 > Requires Emotion and React.
 
 ```js
-import { Stack } from "@hanabi/toolkit";
+import { Stack } from "@hanabiagency/toolkit";
 
 function App() {
   <Stack>
