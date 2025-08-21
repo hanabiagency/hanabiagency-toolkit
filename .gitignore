@@ -1,2 +1,5 @@
 node_modules
 .DS_Store
+storybook-static
+debug-storybook.log
+.storybook
