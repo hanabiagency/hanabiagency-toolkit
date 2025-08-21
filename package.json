@@ -49,7 +49,6 @@
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-react": "^7.37.5",
     "firebase": "^12.1.0",
-    "install-peers": "^1.0.3",
     "next": "^15.5.0",
     "prettier": "^3.6.2",
     "prop-types": "^15.7.2",
