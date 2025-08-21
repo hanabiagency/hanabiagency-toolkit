@@ -1,6 +1,6 @@
 {
   "name": "@hanabiagency/toolkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": false,
   "main": "lib/index.js",
   "module": "lib/index.es.js",
@@ -55,8 +55,8 @@
   },
   "peerDependencies": {
     "@emotion/react": "^11.9.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "dependencies": {
     "csstype": "^3.0.8"
